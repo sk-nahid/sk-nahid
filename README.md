@@ -50,17 +50,6 @@ I enjoy coding and exploring new technologies.
 </p>
 
 ---
-### 🧾 Profile Summary Cards
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/2-most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/4-productive-time.svg" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
