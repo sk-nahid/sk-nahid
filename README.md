@@ -46,6 +46,7 @@ I enjoy coding and exploring new technologies.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-nahid&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/1-repos-per-language.svg">
 </p>
 
 ---
