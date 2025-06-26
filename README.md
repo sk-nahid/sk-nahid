@@ -46,7 +46,18 @@ I enjoy coding and exploring new technologies.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-nahid&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  
+</p>
+
+---
+### 🧾 Profile Summary Cards
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/sk-nahid/sk-nahid/master/profile-summary-card-output/default/4-productive-time.svg" />
 </p>
 
 ---
