@@ -42,7 +42,7 @@ I enjoy coding and exploring new technologies.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sk-nahid&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sk-nahid&theme=tokyonight&hide_border=false"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sk-nahid&theme=tokyonight&hide_border=true" width="49%" height="100%"/>
 </p>
 
 <p align="center">
