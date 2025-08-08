@@ -2,7 +2,13 @@
 <img src="https://github.com/sk-nahid/sk-nahid/blob/main/banner.jpg" width="100%" />
 
 <h1 align="center">Hi, I'm <span style="color:#3498db">S.K. Nahid</span> 👋</h1>
-<h3 align="center">🚀 MERN Stack Developer</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+focused+MERN+Stack+Developer;Expert+in+React%2C+Express+%26+MongoDB;Always+Exploring+New+Tech" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sknahidbbl/" target="_blank">
@@ -17,8 +23,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a MERN stack developer focused on building responsive, user-friendly web applications.  
-I enjoy coding and exploring new technologies.
+I'm a Front-End focused MERN Stack Developer with a strong passion for building responsive, user-friendly, and scalable web applications. I specialize in React.js for dynamic user interfaces and have solid experience with Node.js, Express.js, and MongoDB on the backend.
+
+🚀 I’m always exploring new technologies to stay ahead in the fast-moving world of web development. Whether it’s integrating APIs, optimizing performance, or refining interfaces with tools like Tailwind CSS and DaisyUI, I love delivering projects that don’t just function — they delight users.
 
 ---
 
