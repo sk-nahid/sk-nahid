@@ -62,6 +62,8 @@ I'm a Front-End focused MERN Stack Developer with a strong passion for building 
 ### 📫 Connect With Me
 
 <p>
+  📍 <a>Dhaka, Banagladesh</a>  
+  <br/>
   💼 <a href="https://www.linkedin.com/in/sknahidbbl/" target="_blank">LinkedIn</a>  
   <br/>
   📧 Email: <a href="mailto:sknahid0111@gmail.com">sknahid0111@gmail.com</a>
