@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/sk-nahid/sk-nahid/blob/main/banner.jpg" width="100%" />
+<img src="https://github.com/sk-nahid/sk-nahid/blob/main/profile-banner.png" width="100%" />
 
 <h1 align="center">Hi, I'm <span style="color:#3498db">S.K. Nahid</span> 👋</h1>
 
